@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654730279692",
+    "project_id": "qaya-a252a",
+    "storage_bucket": "qaya-a252a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654730279692:android:9eb16054ead5fc250b6729",
+        "android_client_info": {
+          "package_name": "com.mobile.Qaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz2pJ6RaOBT0-xdCMnDuDeSk8bU_5-gmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
